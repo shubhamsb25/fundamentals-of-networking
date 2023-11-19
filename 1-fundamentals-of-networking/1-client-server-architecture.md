@@ -1,3 +1,4 @@
+
 ## Client server architecture
 
 - machines are expensive, application are complex
