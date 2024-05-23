@@ -1,10 +1,10 @@
+# OSI Model
 
 ## Why we need communication model?
 
 - Agnostic applications
     - We have many different n/w mediums, if we don't have a standard model, application would have to know about which medium is being used
-    - Maybe, separate application for different n/w medium
-
+    - Maybe, separate application for different n/w medium (wifi, ethernet etc)
 - N/w Equipment management
 - Decoupled innovation
     - Innovations on a layer without affecting other layers

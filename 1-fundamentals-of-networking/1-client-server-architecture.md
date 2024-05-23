@@ -13,4 +13,4 @@
 - Clients have commodity h/w
 - Clients can still perform lightweight work
 - Client does not need dependencies, e.g. database drivers
-- To communicate, we need standarized communication model
+- But to communicate, we now need a standarized communication model
